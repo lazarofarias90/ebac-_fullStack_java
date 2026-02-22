@@ -4,8 +4,7 @@ Este repositório contém meu progresso, exercícios e projetos desenvolvidos du
 
 ## 📝 Visão Geral do Programa
 
-* 
-**Foco:** Formação completa abrangendo interfaces modernas, lógica de programação robusta e sistemas escaláveis em nuvem.
+* **Foco:** Formação completa abrangendo interfaces modernas, lógica de programação robusta e sistemas escaláveis em nuvem.
 
 ---
 
@@ -15,24 +14,19 @@ Este repositório contém meu progresso, exercícios e projetos desenvolvidos du
 
 Nesta etapa inicial, o foco é construir interfaces responsivas e dinâmicas.
 
-* 
-**Pilares:** HTML5 semântico, CSS3 (SMACSS/BEM), e Versionamento com Git.
+* **Pilares:** HTML5 semântico, CSS3 (SMACSS/BEM), e Versionamento com Git.
 
 
-* 
-**Dinamismo:** JavaScript avançado (ES6+), manipulação de DOM e biblioteca jQuery.
+* **Dinamismo:** JavaScript avançado (ES6+), manipulação de DOM e biblioteca jQuery.
 
 
-* 
-**Responsividade & Design:** Bootstrap avançado, SASS e LESS para automação (Gulp/Grunt).
+* **Responsividade & Design:** Bootstrap avançado, SASS e LESS para automação (Gulp/Grunt).
 
 
-* 
-**Frameworks Modernos:** Desenvolvimento de SPAs com React (Redux, Styled Components) e visão geral de VueJS.
+* **Frameworks Modernos:** Desenvolvimento de SPAs com React (Redux, Styled Components) e visão geral de VueJS.
 
 
-* 
-**Qualidade:** Testes unitários e de integração com React Testing Library e testes E2E com Cypress.
+* **Qualidade:** Testes unitários e de integração com React Testing Library e testes E2E com Cypress.
 
 
 
@@ -40,24 +34,19 @@ Nesta etapa inicial, o foco é construir interfaces responsivas e dinâmicas.
 
 Transição para o desenvolvimento do lado do servidor e lógica de negócios.
 
-* 
-**Fundamentos:** Configuração de JDK/IDE, variáveis, operadores e controle de fluxo.
+* **Fundamentos:** Configuração de JDK/IDE, variáveis, operadores e controle de fluxo.
 
 
-* 
-**POO & Estruturas:** Classes, interfaces, herança, polimorfismo, Generics e Padrões de Projeto.
+* **POO & Estruturas:** Classes, interfaces, herança, polimorfismo, Generics e Padrões de Projeto.
 
 
-* 
-**Java Avançado:** Expressões Lambda, Streams API, Annotations e tratamento de exceções.
+* **Java Avançado:** Expressões Lambda, Streams API, Annotations e tratamento de exceções.
 
 
-* 
-**Persistência de Dados:** Bancos de dados SQL e NoSQL, integração com ORM e JPA avançado.
+* **Persistência de Dados:** Bancos de dados SQL e NoSQL, integração com ORM e JPA avançado.
 
 
-* 
-**Spring Boot:** Criação de aplicações web robustas e seguras com o framework líder de mercado.
+* **Spring Boot:** Criação de aplicações web robustas e seguras com o framework líder de mercado.
 
 
 
@@ -65,16 +54,13 @@ Transição para o desenvolvimento do lado do servidor e lógica de negócios.
 
 Preparação para sistemas de nível empresarial.
 
-* 
-**Infraestrutura:** Contêineres com Docker, builds otimizados e estratégias de deployment.
+* **Infraestrutura:** Contêineres com Docker, builds otimizados e estratégias de deployment.
 
 
-* 
-**Microsserviços:** Decomposição de monólitos, comunicação entre serviços e segurança.
+* **Microsserviços:** Decomposição de monólitos, comunicação entre serviços e segurança.
 
 
-* 
-**Design de Sistemas:** Planejamento de sistemas escaláveis e preparação para entrevistas em Big Techs.
+* **Design de Sistemas:** Planejamento de sistemas escaláveis e preparação para entrevistas em Big Techs.
 
 
 
@@ -82,16 +68,13 @@ Preparação para sistemas de nível empresarial.
 
 ## 📈 Competências Desenvolvidas
 
-1. 
-**Integração:** Conectar back-end e front-end via APIs e páginas geradas pelo servidor.
+1. **Integração:** Conectar back-end e front-end via APIs e páginas geradas pelo servidor.
 
 
-2. 
-**Qualidade de Código:** Aplicação de algoritmos avançados e boas práticas de codificação (Clean Code).
+2. **Qualidade de Código:** Aplicação de algoritmos avançados e boas práticas de codificação (Clean Code).
 
 
-3. 
-**Escalabilidade:** Transformação de arquiteturas legadas em ecossistemas de microsserviços interconectados.
+3. **Escalabilidade:** Transformação de arquiteturas legadas em ecossistemas de microsserviços interconectados.
 
 
 
@@ -99,20 +82,16 @@ Preparação para sistemas de nível empresarial.
 
 ## 📂 Projetos Destacados
 
-* 
-**Projeto 1:** Landing Page Responsiva (HTML/CSS/Bootstrap).
+* **Projeto 1:** Landing Page Responsiva (HTML/CSS/Bootstrap).
 
 
-* 
-**Projeto 2:** Integração Dinâmica com JavaScript e jQuery.
+* **Projeto 2:** Integração Dinâmica com JavaScript e jQuery.
 
 
-* 
-**Projeto 3:** Aplicação CRUD com Spring Boot e JPA.
+* **Projeto 3:** Aplicação CRUD com Spring Boot e JPA.
 
 
-* 
-**Projeto 4:** Sistema de Microsserviços escalável.
+* **Projeto 4:** Sistema de Microsserviços escalável.
 
 
 

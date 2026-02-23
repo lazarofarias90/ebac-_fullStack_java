@@ -135,5 +135,6 @@ Sou **Engenheiro Civil** em transição de carreira. Com uma base sólida em ló
 ## 📝 Changelog Pessoal
 * **09/02/2026:** Finalizei a configuração profissional do repositório (Git branches e main).
 * **10/02/2026:** Iniciei os estudos de HTML semântico.
+* **23/02/2026:** Publiquei o Projeto 01 em https://lazarofarias90.github.io/ebac_fullStack_java/front_end/projeto_01/.
 
 > *"A curiosidade é o motor do aprendizado. Focado na transição para me tornar um desenvolvedor completo."*
